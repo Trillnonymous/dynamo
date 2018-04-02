@@ -1,0 +1,9 @@
+{
+	"name": "dynamo_io",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"jquery": "^2.8.0",
+		"lodash": "^1.0.0"
+	}
+}
