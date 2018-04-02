@@ -2,6 +2,7 @@
 
 # dependencies
 /node_js_modules
+/vendor/**/.git
 
 # misc
 .DS_Store
