@@ -1,0 +1,10 @@
+{
+	"author": {
+		"name": "Trillnonymous Productions",
+		"email": "trillnonymous@gmail.com"
+	},
+	"dependencies": {
+		"jquery": ">2.8",
+		"lodash": ">1.0"
+	}
+}
