@@ -1,7 +1,7 @@
 <?php
-	$username = isset($_GET['username']) ? $_GET['username'] : '';
-	$target = isset($_GET['target']) ? $_GET['target'] : '';
-	$roomid = isset($_GET['roomid']) ? $_GET['roomid'] : '';
+	$username = isset($_POST['username']) ? $_POST['username'] : '';
+	$target = isset($_POST['target']) ? $_POST['target'] : '';
+	$roomid = isset($_POST['roomid']) ? $_POST['roomid'] : '';
 	$data = array();
 	
 	if ($username !== '' && $target !== '' && $roomid !== ''){
